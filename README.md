@@ -223,8 +223,7 @@ This project is not a substitute for qualified legal advice, and retrieval resul
 B.Tech — Information Technology (Business Informatics)  
 Indian Institute of Information Technology, Allahabad
 
-- GitHub: [yojit-6073](https://github.com/yojitk)
-- LinkedIn: [yojit-kapoor](https://linkedin.com/in/yojit-kapoor)
+- GitHub: [Nitinkumar619](https://github.com/Nitinkumar619)
 
 ---
 
