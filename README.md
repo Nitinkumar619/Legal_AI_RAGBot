@@ -217,14 +217,6 @@ This project is not a substitute for qualified legal advice, and retrieval resul
 - Add retrieval-quality and latency monitoring.
 - Improve index versioning and deployment validation.
 
-## 👨‍💻 Author
-
-**Yojit Kapoor**  
-B.Tech — Information Technology (Business Informatics)  
-Indian Institute of Information Technology, Allahabad
-
-- GitHub: [Nitinkumar619](https://github.com/Nitinkumar619)
-
 ---
 
 *Built as a legal-document retrieval engineering project, focusing on hybrid search, approximate vector indexing, relevance ranking, and deployment.*
